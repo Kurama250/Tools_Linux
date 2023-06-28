@@ -17,7 +17,7 @@ unzip main.zip
 - Start Menu :
 
 ```shell
-cd tools_linux-main
+cd Tools_Linux-main
 bash app.sh
 ```
 
