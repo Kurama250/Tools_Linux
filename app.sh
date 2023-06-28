@@ -22,7 +22,7 @@ run_menu() {
     echo "5. Leave"
     echo ""
 
-    read -p "Choose an option [1-4]: " choice
+    read -p "Choose an option [1-5]: " choice
 
     case $choice in
         1)
