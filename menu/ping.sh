@@ -11,7 +11,6 @@ print_kurama() {
     echo "        Tools for Check IP v1.0           "
 }
 
-print_kurama
 read -p "Enter an IP address : " ip_address
 
 if [[ ! $ip_address =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
