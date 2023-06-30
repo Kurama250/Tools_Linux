@@ -1,4 +1,6 @@
 #!/bin/bash
+# Creator : Kurama
+# Github : https://github.com/Kurama250
 
 print_kurama() {
     echo "   /\ /\_   _ _ __ __ _ _ __ ___   __ _   "
