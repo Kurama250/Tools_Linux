@@ -27,5 +27,9 @@ bash app.sh
 apt install whois curl
 ```
 
+- Demo : 
+
+![alt text](https://github.com/Kurama250/Tools_Linux/blob/main/linux_tools.png?raw=true)
+
 <h1 align="center">There you go and be happy !</h1>
 <h4 align="center">What you get in this repositories is for educational purposes !</h4>
