@@ -40,7 +40,7 @@ bash app.sh
 
 - Demo : 
 
-![alt text](https://github.com/Kurama250/Tools_Linux/blob/main/linux_tools.png)
+![alt text](https://github.com/Kurama250/Tools_Linux/blob/main/linux_tools_v1.1.png)
 
 <h1 align="center">There you go and be happy !</h1>
 <h4 align="center">What you get in this repositories is for educational purposes !</h4>
