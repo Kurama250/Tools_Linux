@@ -10,7 +10,7 @@
 - Run command :
 
 ```shell
-bash <(curl -s https://github.com/Kurama250/)
+bash <(curl -s https://raw.githubusercontent.com/Kurama250/Tools_Linux/main/setup.sh)
 ```
 
 <h5>B) Manual installer</h5>
@@ -18,7 +18,7 @@ bash <(curl -s https://github.com/Kurama250/)
 ```shell
 apt update && apt upgrade -y
 apt install dnsrecon whois curl git -y
-git clone https://github.com/Kurama250
+git clone https://github.com/Kurama250/Tools_Linux.git
 ```
 
 ### Modifie file :
@@ -27,20 +27,20 @@ git clone https://github.com/Kurama250
 
 ```shell
 l: 33
-nano Tools_linux/menu/ddos/ddos.sh
+nano Tools_Linux/menu/ddos/ddos.sh
 api_url="API_URL$ip_address&port=$port&time=60&method=$method"
 ```
 
 - Start Menu :
 
 ```shell
-cd Tools_linux
+cd Tools_Linux
 bash app.sh
 ```
 
 - Demo : 
 
-![alt text](https://github.com/Kurama250/)
+![alt text](https://github.com/Kurama250/Tools_Linux/blob/main/linux_tools.png)
 
 <h1 align="center">There you go and be happy !</h1>
 <h4 align="center">What you get in this repositories is for educational purposes !</h4>
