@@ -8,7 +8,7 @@ print_kurama() {
     echo " \e[32m                                           \e[0m "
     echo " \e[32m          Created by Kurama250             \e[0m "
     echo " \e[34m    Github: https://github.com/Kurama250   \e[0m "
-    echo " \e[35m        Tools for Check IP v1.0            \e[0m "
+    echo " \e[35m       Tools for Check Info v1.1           \e[0m "
     echo ""
 }
 
